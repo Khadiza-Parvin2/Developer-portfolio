@@ -151,3 +151,40 @@ main{
     color: #757575
     
  }
+ /* Resume-style */
+ .section-title{
+    font-weight: 700;
+    font-size: 35px;
+    margin-bottom: 113px;
+ }
+ .resume-content{
+    display: flex;
+    font-weight: 700;
+    font-size: 30px;
+
+ }
+ .resume .title{
+    color: #474747;
+    font-weight: 700;
+    font-size: 25px;
+    margin-bottom: 10px;
+ }
+ .resume .sub-title{
+    color: #757575;
+    font-weight: 600;
+    font-size: 20px;
+    margin-bottom: 20px;
+ }
+ .resume .description{
+    color: #757575;
+    margin-bottom: 60px;
+    font-weight: 400;
+    font-size: 16px;
+ }
+ .resume-title{
+    margin-bottom: 30px;
+ }
+.resume-button{
+    margin-top: 50px;
+    text-align: center;
+}
